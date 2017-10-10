@@ -1,4 +1,4 @@
-/* Global Styles */
+ /* Global Styles */
 body {
   background-color: black;
   font-size: 22px;
@@ -42,4 +42,22 @@ header {
 header img {
   height: 50px;
   padding-left: 10px;
+}
+/* Main Section */
+.main {
+  padding-top: 69px;
+  opacity: 0.9;
+  width: 1200px;
+  margin: auto;
+}
+/* part -1-Mission Style */
+#mission {
+  height: 700px;
+  background-image: url("Assets/img-mission-background.jpg");
+  padding-top: 70px;
+}
+#mission .content {
+  margin: auto;
+  background-color: black;
+  width: 100%;
 }
