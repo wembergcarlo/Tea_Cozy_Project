@@ -109,3 +109,8 @@ header img {
 #contact {
   height: 200px;
 }
+/* Footer */
+footer {
+  text-align: left;
+  padding-left: 20px;
+}
